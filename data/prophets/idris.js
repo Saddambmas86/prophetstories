@@ -1,7 +1,7 @@
 export const idris = {
     name: "Prophet Idris (AS)",
         category: "pre-islamic",
-        image: "images/idris_as.png",
+        image: "images/Idris_as.png",
         description: "The first prophet to write with a pen",
         biography: `Prophet Idris (AS) (إدريس) is one of the early prophets mentioned in the Quran and Islamic tradition. Prophet Idris (AS) is a symbol of knowledge, patience, and divine elevation in Islam. Though the Quran mentions him briefly, Hadith and Islamic history highlight his wisdom and miraculous ascension.<br><br>
 
